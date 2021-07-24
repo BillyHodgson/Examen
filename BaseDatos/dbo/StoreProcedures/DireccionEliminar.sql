@@ -9,7 +9,7 @@ SET NOCOUNT ON
 	BEGIN TRY
 
 		
-	DELETE FROM Dbo.Direccion WHERE IdDireccion=@IdDireccion
+	DELETE FROM dbo.Direccion WHERE IdDireccion=@IdDireccion
 
 
 		COMMIT TRANSACTION TRASA

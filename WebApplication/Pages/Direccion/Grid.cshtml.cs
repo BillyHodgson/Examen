@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using WBL;
 
-namespace WebApplication.Pages
+namespace WebApplication.Pages.Direccion
 {
     public class GridModel : PageModel
     {
